@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "B4B-XH-A")(type "KiCad")(uri "${KIPRJMOD}/LIB/B4B-XH-A/B4B-XH-A.kicad_sym")(options "")(descr ""))
+  (lib (name "CDRH74NP-220MC-B")(type "KiCad")(uri "${KIPRJMOD}/LIB/CDRH74NP-220MC/CDRH74NP-220MC-B.kicad_sym")(options "")(descr ""))
+  (lib (name "DM-OLED096-636")(type "KiCad")(uri "${KIPRJMOD}/LIB/DM-OLED096-636/DM-OLED096-636.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-DEVKITC-32E")(type "KiCad")(uri "${KIPRJMOD}/LIB/ESP32-DEVKITC-32E-38P/ESP32-DEVKITC-32E.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-DEVKIT-V1")(type "KiCad")(uri "${KIPRJMOD}/LIB/ESP32-DEVKIT-V1/ESP32-DEVKIT-V1.kicad_sym")(options "")(descr ""))
+  (lib (name "INMP441-Module")(type "KiCad")(uri "${KIPRJMOD}/LIB/INMP441-MODULE/INMP441-Module.kicad_sym")(options "")(descr ""))
+  (lib (name "TA08-81GWA")(type "KiCad")(uri "${KIPRJMOD}/LIB/MATRIZ-LED-8x8/TA08-81GWA.kicad_sym")(options "")(descr ""))
+  (lib (name "SW_PUSH_2P")(type "KiCad")(uri "${KIPRJMOD}/LIB/SW_PUSH_2P/SW_PUSH_2P.kicad_sym")(options "")(descr ""))
+  (lib (name "TP4056-Module")(type "KiCad")(uri "${KIPRJMOD}/LIB/TP4056-MODULE/TP4056-Module.kicad_sym")(options "")(descr ""))
+  (lib (name "XL6009")(type "KiCad")(uri "${KIPRJMOD}/LIB/XL6009/XL6009.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,234 @@
+(footprint "CUI_TB007-508-03GR"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.905 -7.239 0)
+		(layer "F.SilkS")
+		(uuid "90cc963a-3444-4b34-aa82-72cc4fd48c10")
+		(effects
+			(font
+				(size 1.4 1.4)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CUI_TB007-508-03GR"
+		(at 12.462 6.261 0)
+		(layer "F.Fab")
+		(uuid "16731248-3d50-4cab-93b2-be7ce52f447d")
+		(effects
+			(font
+				(size 1.4 1.4)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "66f821ac-6ea5-4829-b1b4-dee89bcd3c6f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bc97e8cc-d218-4f60-a39c-185542944232")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -2.54 -5.35)
+		(end 12.7 -5.35)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7f081005-b9a4-42b6-9cb1-b8aaef347444")
+	)
+	(fp_line
+		(start -2.54 4.9)
+		(end -2.54 -5.35)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3fa74626-bedc-4d73-ba41-58db7fff406f")
+	)
+	(fp_line
+		(start 12.7 -5.35)
+		(end 12.7 4.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bd9dfaa2-961f-4517-ab33-829a473720d1")
+	)
+	(fp_line
+		(start 12.7 4.9)
+		(end -2.54 4.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "adade909-6dd8-4d0c-80ed-5b286424f7dd")
+	)
+	(fp_circle
+		(center 0 5.9)
+		(end 0.1 5.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "6bcbe2d0-ef26-43c9-b58b-d5f8f75d7f4c")
+	)
+	(fp_line
+		(start -2.79 -5.6)
+		(end 12.95 -5.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7b39a464-c3ae-4626-894f-9d1d4d2c1073")
+	)
+	(fp_line
+		(start -2.79 5.15)
+		(end -2.79 -5.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bf98bc4a-5b42-4cb7-aae6-1c9336235197")
+	)
+	(fp_line
+		(start 12.95 -5.6)
+		(end 12.95 5.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "66c029fe-8299-4c7a-93dd-16d9da79ec78")
+	)
+	(fp_line
+		(start 12.95 5.15)
+		(end -2.79 5.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "27da4874-4c40-42ee-8ab9-6b9a355d4d2d")
+	)
+	(fp_line
+		(start -2.54 -5.35)
+		(end 12.7 -5.35)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5945235f-d1de-4feb-bf99-a638d55056d2")
+	)
+	(fp_line
+		(start -2.54 4.9)
+		(end -2.54 -5.35)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "dc1718e5-87a6-4191-9f73-372028f2520d")
+	)
+	(fp_line
+		(start 12.7 -5.35)
+		(end 12.7 4.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "89f9c32a-5a94-45d6-905a-955216263925")
+	)
+	(fp_line
+		(start 12.7 4.9)
+		(end -2.54 4.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7977087f-b3d1-4e87-a67f-05407eb2ea98")
+	)
+	(fp_circle
+		(center 0 5.9)
+		(end 0.1 5.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "4a9408b9-891e-47f9-9438-19ecedfcf176")
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 2.4 2.4)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "bc585e60-349c-4383-b946-3cc51ca1b262")
+	)
+	(pad "2" thru_hole circle
+		(at 5.08 0)
+		(size 2.4 2.4)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "f1e31afb-f1f3-4bd1-abba-0eb04d9c5009")
+	)
+	(pad "3" thru_hole circle
+		(at 10.16 0)
+		(size 2.4 2.4)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "7085925e-7da6-4dd4-93c3-b3b44f7fc508")
+	)
+	(embedded_fonts no)
+	(model "C:/LibKicad-Global/My3DModels/TB007-508-03GR.step"
+		(offset
+			(xyz 15 -5 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -90)
+		)
+	)
+)
