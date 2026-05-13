@@ -519,7 +519,7 @@
       "plot": "OutputFiles/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "OutputFiles/Soletrando-e-Aprendendo_v1.step",
       "svg": "",
       "vrml": ""
     },
