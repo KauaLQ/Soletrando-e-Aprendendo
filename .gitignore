@@ -19,3 +19,8 @@ fp-info-cache
 *.dsn
 *.ses
 *.zip
+# Gerber files
+OutputFiles/
+*.gbr
+*.drl
+*.gbrjob
